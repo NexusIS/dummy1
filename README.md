@@ -30,9 +30,7 @@
 # from gerrit.denicacloud.com4
 # github21
 # from gerrit.denicacloud.com4
-<<<<<<< HEAD
 # from gerrit.denicacloud.com4
-=======
 # github22
->>>>>>> temp1
 # github23
+# from gerrit.denicacloud.com4
